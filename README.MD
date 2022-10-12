@@ -38,6 +38,4 @@
 <a href="https://hyper.is/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/78539161/180262577-2538fca2-5701-4db4-a2fd-0871adc4af84.svg" width="40" height="40"></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sneha-Mittal88293&show_icons=true&locale=en&layout=compact" alt="Sneha-mittal" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sneha-Mittal88293&show_icons=true&locale=en" alt="Sneha-Mittal" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sneha-Mittal88293&" alt="Sneha-Mittal" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sneha-Mittal88293&theme=algolia" alt="Sneha-Mittal88293" /></p>
