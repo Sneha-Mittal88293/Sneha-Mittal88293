@@ -13,6 +13,9 @@
 
 - 📫 How to reach me **snehamittal88293@gmail.com**
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sneha-Mittal88293&theme=algolia" alt="Sneha-Mittal88293" /></p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sneha-mittal-334a6b223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sneha-mittal-334a6b223/" height="30" width="40" /></a>
@@ -37,5 +40,3 @@
 <a href="https://developer.android.com/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://hyper.is/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/78539161/180262577-2538fca2-5701-4db4-a2fd-0871adc4af84.svg" width="40" height="40"></a>
 </p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sneha-Mittal88293&theme=algolia" alt="Sneha-Mittal88293" /></p>
