@@ -1,7 +1,7 @@
 <h1 align="center">
 <!-- <img width=2000 src= "https://www.bdosn.org/images/2019/07/03/Workshop%20-%20Unveiling%20the%20secret%20through%20machine%20learning.jpg" height = "400"> -->
 </h1>
-<h1 align="center">Hey 👋, I'm Sneha</h1>
+<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sneha</h1>
 <h3 align="center">A Front End developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC -/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
