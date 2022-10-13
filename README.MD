@@ -1,5 +1,5 @@
 <h1 align="center">
-<!-- <img width=2000 src= "https://www.bdosn.org/images/2019/07/03/Workshop%20-%20Unveiling%20the%20secret%20through%20machine%20learning.jpg" height = "400"> -->
+<img width=800 src= "https://th.bing.com/th/id/R.5dafff67a196c38126148f5aad04ab0d?rik=IRpCUizFlYHqfg&riu=http%3a%2f%2fwww.dqindia.com%2fwp-content%2fuploads%2f2017%2f04%2fdigital-workspace-450x250.png&ehk=z3lwrD2JCQA4mgboLrxSVzHmxUbB%2f6zlZkeidXWYJEQ%3d&risl=&pid=ImgRaw&r=0" height = "400">
 </h1>
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sneha Mittal</h1>
 <h3 align="center">A Front End developer from India</h3>
