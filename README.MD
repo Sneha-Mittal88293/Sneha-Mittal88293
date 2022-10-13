@@ -1,8 +1,9 @@
 <h1 align="center">
-<img width=800 src= "https://th.bing.com/th/id/R.5dafff67a196c38126148f5aad04ab0d?rik=IRpCUizFlYHqfg&riu=http%3a%2f%2fwww.dqindia.com%2fwp-content%2fuploads%2f2017%2f04%2fdigital-workspace-450x250.png&ehk=z3lwrD2JCQA4mgboLrxSVzHmxUbB%2f6zlZkeidXWYJEQ%3d&risl=&pid=ImgRaw&r=0" height = "400">
-</h1>
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sneha Mittal</h1>
 <h3 align="center">A Front End developer from India</h3>
+<img align = "center" width=900 src= "https://th.bing.com/th/id/R.5dafff67a196c38126148f5aad04ab0d?rik=IRpCUizFlYHqfg&riu=http%3a%2f%2fwww.dqindia.com%2fwp-content%2fuploads%2f2017%2f04%2fdigital-workspace-450x250.png&ehk=z3lwrD2JCQA4mgboLrxSVzHmxUbB%2f6zlZkeidXWYJEQ%3d&risl=&pid=ImgRaw&r=0" height = "350">
+</h1>
+
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC -/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sneha-Mittal88293&label=Profile%20views&color=0e75b6&style=flat" alt="Sneha-Mittal" /> </p>
