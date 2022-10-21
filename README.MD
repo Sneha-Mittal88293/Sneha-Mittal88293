@@ -23,6 +23,7 @@
 <a href="https://instagram.com/sneha_m0502" target = "blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=" SnehaMittal" height="30" width="40" /></a>
 
 </p>
+<h3 align="left">HERE'S MY HACKTOBERFEST BADGES :</h3>
 
 [![@sneha_mittal's Holopin board](https://holopin.me/sneha_mittal)](https://holopin.io/@sneha_mittal)
 
