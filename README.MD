@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sneha-mittal-334a6b223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sneha-mittal-334a6b223/" height="30" width="40" /></a>
 <a href="https://instagram.com/sneha_m0502" target = "blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=" SnehaMittal" height="30" width="40" /></a>
-
+<a href="https://twitter.com/Sneha_Mittal88" target = "blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=" SnehaMittal" height="30" width="40" /></a>
 </p>
 <h3 align="left">HERE'S MY HACKTOBERFEST BADGES :</h3>
 
